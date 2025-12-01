@@ -244,13 +244,20 @@ const response = await llama.chat(query + results.context);
 | Component | Technology | Why? |
 |-----------|-----------|------|
 | **Frontend** | Next.js 14 + React 18 | Modern, fast, SSR support |
+| **Styling** | Tailwind CSS | Utility-first, responsive design |
+| **UI Components** | shadcn/ui | Accessible, customizable components |
 | **API Routes** | Next.js API Routes | Serverless, auto-scaling |
-| **Vector DB** | ZeroDB Cloud | Managed, FREE embeddings |
-| **Embeddings** | BAAI/bge-small-en-v1.5 | 384D, fast, accurate, FREE |
+| **Vector Database** | ZeroDB Cloud | Managed vector DB, FREE embeddings |
+| **Semantic Search** | ZeroDB Embeddings API | Auto-embedding, 1-call search |
+| **Authentication** | ZeroDB JWT Auth | Secure token-based auth |
+| **Embeddings Model** | BAAI/bge-small-en-v1.5 | 384D, fast, accurate, FREE |
 | **LLM** | Meta Llama 4 Maverick | OpenAI-compatible, affordable |
-| **HTTP Client** | node-fetch | Reliable, configurable timeouts |
-| **Text Splitting** | LangChain | Proven RAG chunking |
-| **Streaming** | Vercel AI SDK | Real-time responses |
+| **LLM API** | Meta Llama Compat API | Drop-in OpenAI replacement |
+| **HTTP Client** | node-fetch v2.7.0 | Reliable, configurable timeouts |
+| **Text Splitting** | LangChain RecursiveCharacterTextSplitter | Proven RAG chunking strategy |
+| **Streaming** | Vercel AI SDK | Real-time SSE streaming |
+| **TypeScript** | TypeScript 5 | Type safety, better DX |
+| **Package Manager** | npm | Standard Node.js packages |
 
 ---
 
