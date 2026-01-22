@@ -1,0 +1,1 @@
+../../../devcontext/.ainative/git-rules.md

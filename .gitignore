@@ -200,3 +200,6 @@ logs/
 # Temporary files
 *.tmp
 .cache/tsconfig.tsbuildinfo
+
+# Claude Code
+.claude/settings.local.json
