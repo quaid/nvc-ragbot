@@ -126,7 +126,7 @@ export default function Home() {
               </button>
               {/* Transmutes Logo */}
               <div className='flex items-center gap-3'>
-                <h1 className="text-2xl font-bold text-[#F6A135]" style={{ fontFamily: 'Bank Gothic, sans-serif', letterSpacing: '0.05em' }}>TRANSMUTES</h1>
+                <h1 className="text-2xl font-bold text-[#F6A135]" style={{ fontFamily: 'Bank Gothic, sans-serif', letterSpacing: '0.05em' }}>NVC COMPANION</h1>
               </div>
             </div>
             <div className='flex items-center gap-4'>
@@ -158,8 +158,8 @@ export default function Home() {
           <div className='max-w-4xl mx-auto space-y-6'>
             {messages.length === 0 ? (
               <div className='flex flex-col items-center justify-center h-full py-12'>
-                <h2 className='text-3xl font-semibold text-[#F6A135] dark:text-[#F6A135] mb-3'>Welcome to Transmutes Wisdom</h2>
-                <p className='text-gray-700 dark:text-gray-400 text-center max-w-md'>Explore ancient teachings from enlightened masters. Ask about consciousness, meditation, self-inquiry, and the nature of reality.</p>
+                <h2 className='text-3xl font-semibold text-[#F6A135] dark:text-[#F6A135] mb-3'>Welcome to NVC Practice Companion</h2>
+                <p className='text-gray-700 dark:text-gray-400 text-center max-w-md'>Learn and practice Nonviolent Communication. Ask about the four components (OFNR), feelings and needs vocabulary, empathy practice, and conflict resolution.</p>
               </div>
             ) : (
               <>
@@ -186,7 +186,7 @@ export default function Home() {
                   value={input}
                   disabled={isLoading}
                   className='w-full px-4 py-3 rounded-xl backdrop-blur-sm bg-white dark:bg-slate-800 border-2 border-[#F6A135]/30 dark:border-[#F6A135]/30 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:ring-2 focus:ring-[#F6A135] dark:focus:ring-[#F6A135] focus:border-[#F6A135] dark:focus:border-[#F6A135] shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed'
-                  placeholder='Ask about consciousness, meditation, or wisdom teachings...'
+                  placeholder='Ask about NVC, feelings, needs, or get help with a situation...'
                 />
               </div>
               <button

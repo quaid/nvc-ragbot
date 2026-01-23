@@ -1,0 +1,218 @@
+[
+  {
+    "url": "nvc://feelings/needs-met/affectionate",
+    "title": "Feelings When Needs Are Met - Affectionate",
+    "content": "When our needs are met, we may feel AFFECTIONATE emotions:\n\n- Compassionate: feeling warmth and care for others' wellbeing\n- Friendly: feeling open and warm toward others\n- Loving: feeling deep affection and care\n- Open-hearted: feeling receptive and caring\n- Sympathetic: feeling understanding of others' experiences\n- Tender: feeling gentle care and softness\n- Warm: feeling affectionate and kind\n\nThese feelings often arise when needs for CONNECTION, LOVE, INTIMACY, CLOSENESS, or NURTURING are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "affectionate",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/engaged",
+    "title": "Feelings When Needs Are Met - Engaged",
+    "content": "When our needs are met, we may feel ENGAGED emotions:\n\n- Absorbed: fully immersed in an activity\n- Alert: feeling awake and attentive\n- Curious: feeling interested and wanting to explore\n- Engrossed: deeply involved and focused\n- Enchanted: feeling captivated and delighted\n- Entranced: feeling spellbound with interest\n- Fascinated: feeling strong interest and attraction\n- Interested: feeling drawn to learn or know more\n- Intrigued: feeling curious and wanting to understand\n- Involved: feeling actively engaged and participating\n- Spellbound: feeling captivated completely\n- Stimulated: feeling mentally energized\n\nThese feelings often arise when needs for STIMULATION, LEARNING, DISCOVERY, GROWTH, or MEANING are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "engaged",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/hopeful",
+    "title": "Feelings When Needs Are Met - Hopeful",
+    "content": "When our needs are met, we may feel HOPEFUL emotions:\n\n- Expectant: feeling positive anticipation\n- Encouraged: feeling supported and motivated\n- Hopeful: feeling positive about possibilities\n- Optimistic: feeling confident about the future\n\nThese feelings often arise when needs for HOPE, TRUST, SUPPORT, or MEANING are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "hopeful",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/confident",
+    "title": "Feelings When Needs Are Met - Confident",
+    "content": "When our needs are met, we may feel CONFIDENT emotions:\n\n- Empowered: feeling capable and strong\n- Open: feeling receptive and willing\n- Proud: feeling satisfaction in accomplishments\n- Safe: feeling secure and protected\n- Secure: feeling stable and confident\n\nThese feelings often arise when needs for SAFETY, COMPETENCE, EFFECTIVENESS, SELF-WORTH, or AUTONOMY are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "confident",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/excited",
+    "title": "Feelings When Needs Are Met - Excited",
+    "content": "When our needs are met, we may feel EXCITED emotions:\n\n- Amazed: feeling wonder and astonishment\n- Animated: feeling lively and energetic\n- Ardent: feeling passionate enthusiasm\n- Aroused: feeling energized and activated\n- Astonished: feeling great surprise and wonder\n- Dazzled: feeling impressed and amazed\n- Eager: feeling keen and enthusiastic\n- Energetic: feeling full of energy\n- Enthusiastic: feeling eager excitement\n- Giddy: feeling lightheaded with excitement\n- Invigorated: feeling refreshed and energized\n- Lively: feeling full of life and energy\n- Passionate: feeling intense enthusiasm\n- Surprised: feeling unexpected delight\n- Vibrant: feeling alive and energetic\n\nThese feelings often arise when needs for STIMULATION, PLAY, ADVENTURE, CELEBRATION, or ALIVENESS are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "excited",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/grateful",
+    "title": "Feelings When Needs Are Met - Grateful",
+    "content": "When our needs are met, we may feel GRATEFUL emotions:\n\n- Appreciative: feeling thankful for what we have\n- Grateful: feeling thankful and appreciative\n- Moved: feeling emotionally touched\n- Thankful: feeling gratitude\n- Touched: feeling emotionally affected\n\nThese feelings often arise when needs for APPRECIATION, RECOGNITION, SUPPORT, CONNECTION, or CONTRIBUTION are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "grateful",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/joyful",
+    "title": "Feelings When Needs Are Met - Joyful",
+    "content": "When our needs are met, we may feel JOYFUL emotions:\n\n- Amused: feeling entertained and light\n- Delighted: feeling great pleasure\n- Glad: feeling pleased and happy\n- Happy: feeling contentment and pleasure\n- Jubilant: feeling triumphant joy\n- Pleased: feeling satisfied and content\n- Tickled: feeling amused delight\n\nThese feelings often arise when needs for JOY, PLAY, FUN, CELEBRATION, or EASE are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "joyful",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/exhilarated",
+    "title": "Feelings When Needs Are Met - Exhilarated",
+    "content": "When our needs are met, we may feel EXHILARATED emotions:\n\n- Blissful: feeling serene joy\n- Ecstatic: feeling overwhelming happiness\n- Elated: feeling great happiness\n- Enthralled: feeling captivated with joy\n- Exuberant: feeling lively and joyful\n- Radiant: feeling glowing with happiness\n- Rapturous: feeling intense pleasure\n- Thrilled: feeling sudden intense excitement\n\nThese feelings often arise when needs for CELEBRATION, MEANING, CONNECTION, ALIVENESS, or JOY are deeply met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "exhilarated",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/peaceful",
+    "title": "Feelings When Needs Are Met - Peaceful",
+    "content": "When our needs are met, we may feel PEACEFUL emotions:\n\n- Calm: feeling serene and untroubled\n- Centered: feeling balanced and grounded\n- Content: feeling satisfied and at ease\n- Equanimous: feeling balanced regardless of circumstances\n- Fulfilled: feeling deeply satisfied\n- Mellow: feeling calm and relaxed\n- Quiet: feeling still and peaceful\n- Relaxed: feeling free from tension\n- Relieved: feeling freed from worry\n- Satisfied: feeling contentment with what is\n- Serene: feeling calm and untroubled\n- Still: feeling quiet and motionless\n- Tranquil: feeling peaceful and calm\n- Trusting: feeling confident and secure\n\nThese feelings often arise when needs for PEACE, HARMONY, REST, SAFETY, EASE, or ORDER are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "peaceful",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-met/refreshed",
+    "title": "Feelings When Needs Are Met - Refreshed",
+    "content": "When our needs are met, we may feel REFRESHED emotions:\n\n- Enlivened: feeling brought to life\n- Rejuvenated: feeling restored and renewed\n- Renewed: feeling fresh energy\n- Rested: feeling recovered from fatigue\n- Restored: feeling returned to good condition\n- Revived: feeling brought back to life\n\nThese feelings often arise when needs for REST, RENEWAL, SELF-CARE, or PHYSICAL WELLBEING are being met.",
+    "content_type": "feeling",
+    "category": "needs_met",
+    "feeling_family": "refreshed",
+    "needs_met": true
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/afraid",
+    "title": "Feelings When Needs Are Unmet - Afraid",
+    "content": "When our needs are NOT met, we may feel AFRAID emotions:\n\n- Apprehensive: feeling anxious about the future\n- Dread: feeling great fear about what might happen\n- Foreboding: feeling something bad will happen\n- Frightened: feeling scared and alarmed\n- Mistrustful: feeling suspicion and doubt\n- Panicked: feeling sudden overwhelming fear\n- Petrified: feeling paralyzed with fear\n- Scared: feeling frightened\n- Suspicious: feeling distrust\n- Terrified: feeling extreme fear\n- Wary: feeling cautious and watchful\n- Worried: feeling anxious about potential problems\n\nThese feelings often arise when needs for SAFETY, SECURITY, TRUST, PREDICTABILITY, or PROTECTION are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "afraid",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/annoyed",
+    "title": "Feelings When Needs Are Unmet - Annoyed",
+    "content": "When our needs are NOT met, we may feel ANNOYED emotions:\n\n- Aggravated: feeling irritated and frustrated\n- Dismayed: feeling distress and disappointment\n- Disgruntled: feeling displeased and unhappy\n- Displeased: feeling dissatisfied\n- Exasperated: feeling intensely irritated\n- Frustrated: feeling upset at inability to change something\n- Impatient: feeling restless waiting\n- Irritated: feeling annoyed and bothered\n- Irked: feeling slightly annoyed\n\nThese feelings often arise when needs for EASE, CONSIDERATION, UNDERSTANDING, EFFICIENCY, or RESPECT are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "annoyed",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/angry",
+    "title": "Feelings When Needs Are Unmet - Angry",
+    "content": "When our needs are NOT met, we may feel ANGRY emotions:\n\n- Enraged: feeling violent anger\n- Furious: feeling extremely angry\n- Incensed: feeling very angry\n- Indignant: feeling anger at unfairness\n- Irate: feeling extremely angry\n- Livid: feeling furiously angry\n- Outraged: feeling fierce anger\n- Resentful: feeling bitter indignation\n\nThese feelings often arise when needs for RESPECT, FAIRNESS, AUTONOMY, CONSIDERATION, or INTEGRITY are strongly not being met.\n\nIn NVC, anger is seen as a signal that we have unmet needs AND that we are thinking in ways that disconnect us from those needs (often involving judgments about others). The invitation is to use anger as a cue to connect with the underlying needs.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "angry",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/aversion",
+    "title": "Feelings When Needs Are Unmet - Aversion",
+    "content": "When our needs are NOT met, we may feel AVERSION emotions:\n\n- Animosity: feeling strong hostility\n- Appalled: feeling shocked and dismayed\n- Contempt: feeling disdain\n- Disgusted: feeling revulsion\n- Dislike: feeling aversion\n- Hate: feeling intense dislike\n- Horrified: feeling shock and fear\n- Hostile: feeling unfriendly opposition\n- Repulsed: feeling strong disgust\n\nThese feelings often arise when needs for SAFETY, INTEGRITY, RESPECT, VALUES, or HARMONY are strongly not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "aversion",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/confused",
+    "title": "Feelings When Needs Are Unmet - Confused",
+    "content": "When our needs are NOT met, we may feel CONFUSED emotions:\n\n- Ambivalent: feeling conflicted between options\n- Baffled: feeling completely puzzled\n- Bewildered: feeling perplexed and confused\n- Dazed: feeling stunned and confused\n- Hesitant: feeling uncertain about proceeding\n- Lost: feeling without direction\n- Mystified: feeling completely puzzled\n- Perplexed: feeling puzzled and confused\n- Puzzled: feeling unable to understand\n- Torn: feeling pulled in different directions\n\nThese feelings often arise when needs for CLARITY, UNDERSTANDING, MEANING, ORDER, or DIRECTION are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "confused",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/disconnected",
+    "title": "Feelings When Needs Are Unmet - Disconnected",
+    "content": "When our needs are NOT met, we may feel DISCONNECTED emotions:\n\n- Alienated: feeling isolated and estranged\n- Aloof: feeling distant and detached\n- Apathetic: feeling lack of interest or concern\n- Bored: feeling weary from lack of interest\n- Cold: feeling emotionally distant\n- Detached: feeling emotionally separated\n- Distant: feeling emotionally far away\n- Distracted: feeling unable to focus\n- Indifferent: feeling no interest or concern\n- Numb: feeling emotionally deadened\n- Removed: feeling detached from situation\n- Uninterested: feeling no interest\n- Withdrawn: feeling pulled back from engagement\n\nThese feelings often arise when needs for CONNECTION, BELONGING, COMMUNITY, MEANING, ENGAGEMENT, or STIMULATION are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "disconnected",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/disquiet",
+    "title": "Feelings When Needs Are Unmet - Disquiet",
+    "content": "When our needs are NOT met, we may feel DISQUIET emotions:\n\n- Agitated: feeling disturbed and restless\n- Alarmed: feeling sudden fear or concern\n- Discombobulated: feeling confused and disconcerted\n- Disconcerted: feeling unsettled and disturbed\n- Disturbed: feeling anxious and troubled\n- Perturbed: feeling anxious or unsettled\n- Rattled: feeling nervous and upset\n- Restless: feeling unable to rest or relax\n- Shocked: feeling suddenly disturbed\n- Startled: feeling sudden alarm\n- Surprised: feeling caught off guard\n- Troubled: feeling worried and disturbed\n- Turbulent: feeling chaotic and unstable\n- Uncomfortable: feeling unease\n- Uneasy: feeling anxious and unsettled\n- Unnerved: feeling courage or confidence lost\n- Unsettled: feeling anxious and disturbed\n- Upset: feeling unhappy and worried\n\nThese feelings often arise when needs for PEACE, STABILITY, SAFETY, PREDICTABILITY, or ORDER are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "disquiet",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/embarrassed",
+    "title": "Feelings When Needs Are Unmet - Embarrassed",
+    "content": "When our needs are NOT met, we may feel EMBARRASSED emotions:\n\n- Ashamed: feeling shame about oneself\n- Chagrined: feeling distress from failure\n- Flustered: feeling agitated and confused\n- Guilty: feeling culpability for wrongdoing\n- Mortified: feeling extreme embarrassment\n- Self-conscious: feeling uncomfortably aware of oneself\n\nThese feelings often arise when needs for ACCEPTANCE, BELONGING, CONSIDERATION, RESPECT, INTEGRITY, or SELF-ACCEPTANCE are not being met.\n\nIn NVC, we distinguish shame from guilt. Both involve judgments about ourselves. The invitation is to connect with the underlying needs (for integrity, for acceptance, etc.) rather than staying stuck in self-judgment.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "embarrassed",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/fatigue",
+    "title": "Feelings When Needs Are Unmet - Fatigue",
+    "content": "When our needs are NOT met, we may feel FATIGUE emotions:\n\n- Beat: feeling exhausted\n- Burnt out: feeling exhausted from overwork\n- Depleted: feeling drained of resources\n- Exhausted: feeling completely tired\n- Lethargic: feeling sluggish and low energy\n- Listless: feeling lack of energy or enthusiasm\n- Sleepy: feeling need for sleep\n- Tired: feeling need for rest\n- Weary: feeling tired and lacking energy\n- Worn out: feeling exhausted\n\nThese feelings often arise when needs for REST, RENEWAL, EASE, SELF-CARE, PHYSICAL WELLBEING, or SUSTAINABILITY are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "fatigue",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/pain",
+    "title": "Feelings When Needs Are Unmet - Pain",
+    "content": "When our needs are NOT met, we may feel PAIN emotions:\n\n- Agony: feeling extreme suffering\n- Anguished: feeling severe mental suffering\n- Bereaved: feeling grief from loss\n- Devastated: feeling severely shocked and upset\n- Grief: feeling deep sorrow from loss\n- Heartbroken: feeling overwhelming sorrow\n- Hurt: feeling emotional pain\n- Lonely: feeling sad from being alone\n- Miserable: feeling wretchedly unhappy\n- Regretful: feeling sorry about something\n- Remorseful: feeling deep regret\n\nThese feelings often arise when needs for CONNECTION, LOVE, BELONGING, UNDERSTANDING, MEANING, MOURNING, or ACCEPTANCE are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "pain",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/sad",
+    "title": "Feelings When Needs Are Unmet - Sad",
+    "content": "When our needs are NOT met, we may feel SAD emotions:\n\n- Depressed: feeling severe despondency\n- Dejected: feeling sad and dispirited\n- Despair: feeling complete loss of hope\n- Despondent: feeling low spirits from loss of hope\n- Disappointed: feeling sadness from unmet expectations\n- Discouraged: feeling loss of confidence\n- Disheartened: feeling loss of determination\n- Forlorn: feeling pitifully sad and lonely\n- Gloomy: feeling dark sadness\n- Heavy-hearted: feeling sadness and melancholy\n- Hopeless: feeling despair\n- Melancholy: feeling deep sadness\n- Unhappy: feeling not happy\n- Wretched: feeling deeply unhappy\n\nThese feelings often arise when needs for CONNECTION, HOPE, MEANING, SUPPORT, COMFORT, or UNDERSTANDING are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "sad",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/tense",
+    "title": "Feelings When Needs Are Unmet - Tense",
+    "content": "When our needs are NOT met, we may feel TENSE emotions:\n\n- Anxious: feeling worry and unease\n- Cranky: feeling bad-tempered\n- Distressed: feeling extreme anxiety or pain\n- Distraught: feeling deeply upset\n- Edgy: feeling tense and nervous\n- Fidgety: feeling restless nervousness\n- Frazzled: feeling exhausted and irritable\n- Irritable: feeling easily annoyed\n- Jittery: feeling nervous and unable to relax\n- Nervous: feeling worried and uneasy\n- Overwhelmed: feeling buried under too much\n- Restless: feeling unable to rest\n- Stressed: feeling mental or emotional strain\n\nThese feelings often arise when needs for PEACE, EASE, AUTONOMY, SPACE, SUPPORT, REST, or COMPETENCE are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "tense",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/vulnerable",
+    "title": "Feelings When Needs Are Unmet - Vulnerable",
+    "content": "When our needs are NOT met, we may feel VULNERABLE emotions:\n\n- Fragile: feeling easily broken or damaged\n- Guarded: feeling watchful and cautious\n- Helpless: feeling unable to help oneself\n- Insecure: feeling uncertain and vulnerable\n- Leery: feeling cautious due to suspicion\n- Reserved: feeling slow to reveal feelings\n- Sensitive: feeling easily hurt or affected\n- Shaky: feeling unstable and uncertain\n\nThese feelings often arise when needs for SAFETY, SECURITY, SUPPORT, PROTECTION, TRUST, or STABILITY are not being met.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "vulnerable",
+    "needs_met": false
+  },
+  {
+    "url": "nvc://feelings/needs-unmet/yearning",
+    "title": "Feelings When Needs Are Unmet - Yearning",
+    "content": "When our needs are NOT met, we may feel YEARNING emotions:\n\n- Envious: feeling desire for others' advantages\n- Jealous: feeling resentment toward rival\n- Longing: feeling persistent desire\n- Nostalgic: feeling wistful longing for the past\n- Pining: feeling yearning\n- Wistful: feeling vague longing\n\nThese feelings often arise when needs for CONNECTION, LOVE, BELONGING, SECURITY, INCLUSION, or MEANING are not being met.\n\nIn NVC, we see these feelings as pointing us toward important unmet needs. Rather than judging ourselves for feeling envious or jealous, we can use these feelings as doorways to understanding what we truly need.",
+    "content_type": "feeling",
+    "category": "needs_unmet",
+    "feeling_family": "yearning",
+    "needs_met": false
+  }
+]

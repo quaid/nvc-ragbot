@@ -1,0 +1,106 @@
+[
+  {
+    "url": "nvc://concepts/introduction",
+    "title": "What is Nonviolent Communication (NVC)?",
+    "content": "Nonviolent Communication (NVC) is a communication process developed by Marshall Rosenberg in the 1960s. It is based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms others when they don't recognize more effective strategies for meeting needs.\n\nNVC is sometimes called 'Compassionate Communication' or 'Collaborative Communication.' The process involves four components: Observations, Feelings, Needs, and Requests (often abbreviated as OFNR).\n\nThe purpose of NVC is to create a quality of connection among people where everyone's needs are valued and can be met through compassionate giving. It helps us express ourselves honestly while also hearing others with empathy, even in challenging situations.\n\nNVC can be used in intimate relationships, families, schools, organizations, therapy, counseling, diplomatic negotiations, and any context where people seek to understand each other more deeply.",
+    "content_type": "concept",
+    "category": "introduction",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/four-components",
+    "title": "The Four Components of NVC (OFNR)",
+    "content": "NVC consists of four components that help us communicate with clarity and compassion:\n\n1. OBSERVATIONS: What we see or hear that we identify as the stimulus to our reactions. Observations are specific facts without evaluation or judgment. Instead of 'You're always late,' an observation would be 'The last three times we met, you arrived 20 minutes after the agreed time.'\n\n2. FEELINGS: How we feel in relation to what we observe. NVC distinguishes feelings from thoughts or evaluations. 'I feel ignored' is actually a thought about what others are doing to us. A true feeling would be 'I feel sad' or 'I feel frustrated.'\n\n3. NEEDS: The universal human needs that are the root of our feelings. When our needs are met, we have pleasant feelings. When they're not met, we have unpleasant feelings. Needs are universal - everyone has needs for connection, autonomy, meaning, etc.\n\n4. REQUESTS: Clear, positive, doable actions we ask for to meet our needs. Requests differ from demands because we're open to hearing 'no' and willing to explore other strategies. A request is specific and actionable: 'Would you be willing to text me if you're running more than 10 minutes late?'\n\nThe formula can be expressed as: 'When I see/hear [observation], I feel [feeling] because I need [need]. Would you be willing to [request]?'",
+    "content_type": "concept",
+    "category": "core",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/observations",
+    "title": "Observations vs Evaluations",
+    "content": "The first component of NVC is making observations without mixing in evaluations or judgments. This is one of the highest forms of human intelligence - to observe without evaluating.\n\nOBSERVATIONS are:\n- Specific to time and context\n- What a video camera would record\n- Neutral descriptions of what happened\n- Free from interpretation\n\nEVALUATIONS are:\n- Generalizations ('always,' 'never')\n- Judgments about character ('lazy,' 'selfish')\n- Interpretations of meaning\n- Predictions or assumptions\n\nExamples:\n- Evaluation: 'You're irresponsible.' → Observation: 'I noticed the dishes have been in the sink for three days.'\n- Evaluation: 'She's a poor communicator.' → Observation: 'In the last meeting, she spoke for 20 minutes without pausing for questions.'\n- Evaluation: 'He doesn't care about me.' → Observation: 'When I told him about my day, he continued looking at his phone.'\n\nWhen we mix observations with evaluations, people are likely to hear criticism and resist what we're saying. Pure observations increase the likelihood of being heard.",
+    "content_type": "concept",
+    "category": "observations",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/feelings",
+    "title": "Feelings in NVC",
+    "content": "The second component of NVC involves clearly expressing how we feel. In NVC, we take responsibility for our feelings by connecting them to our needs rather than blaming others.\n\nTRUE FEELINGS are internal emotional experiences:\n- Sad, happy, scared, angry, surprised, disgusted (basic emotions)\n- Anxious, peaceful, excited, discouraged, hopeful, overwhelmed\n- These arise from within us based on whether our needs are met\n\nFAUX FEELINGS (thoughts disguised as feelings) imply someone is doing something TO us:\n- 'I feel abandoned' (thought: you left me)\n- 'I feel manipulated' (thought: you're trying to control me)\n- 'I feel unheard' (thought: you're not listening)\n- 'I feel disrespected' (thought: you don't respect me)\n\nWhen we say 'I feel [faux feeling],' we're actually expressing a judgment about others' actions, which tends to create defensiveness.\n\nThe shift: Instead of 'I feel ignored,' try 'I feel lonely and sad' (true feelings). Instead of 'I feel attacked,' try 'I feel scared and defensive.'\n\nExpanding our feelings vocabulary helps us express ourselves more precisely and take ownership of our emotional experience.",
+    "content_type": "concept",
+    "category": "feelings",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/needs",
+    "title": "Universal Human Needs",
+    "content": "The third component of NVC - and its foundation - is recognizing the universal human needs that drive all of our feelings and actions.\n\nKEY PRINCIPLES ABOUT NEEDS:\n- Needs are universal - all humans share the same basic needs\n- Needs are never in conflict - only strategies for meeting needs conflict\n- Feelings are signals about whether needs are met (pleasant) or unmet (unpleasant)\n- We always have multiple needs, and they shift in priority\n- Needs are not dependent on specific people or actions (those are strategies)\n\nCATEGORIES OF UNIVERSAL NEEDS:\n\nConnection: acceptance, affection, appreciation, belonging, closeness, communication, companionship, compassion, consideration, empathy, inclusion, intimacy, love, mutuality, nurturing, respect, support, trust, understanding, warmth\n\nPhysical Well-being: air, food, movement, rest, safety, shelter, touch, water\n\nHonesty: authenticity, integrity, self-worth\n\nPlay: joy, humor, fun\n\nPeace: beauty, ease, equality, harmony, order, tranquility\n\nAutonomy: choice, freedom, independence, space, spontaneity\n\nMeaning: awareness, celebration, challenge, clarity, competence, consciousness, contribution, creativity, discovery, effectiveness, growth, hope, learning, mourning, participation, purpose, self-expression, stimulation, understanding\n\nWhen we can identify and express the needs underlying our feelings, we create connection and open pathways to meeting everyone's needs.",
+    "content_type": "concept",
+    "category": "needs",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/requests",
+    "title": "Requests vs Demands",
+    "content": "The fourth component of NVC is making clear requests that would help meet our needs.\n\nCHARACTERISTICS OF EFFECTIVE REQUESTS:\n- Positive language (what you want, not what you don't want)\n- Specific and concrete actions\n- Doable in the present moment\n- Truly a request (open to 'no')\n\nREQUESTS vs DEMANDS:\nThe key difference is how we respond when someone says no.\n- If we criticize, judge, guilt-trip, or punish when they decline → it was a demand\n- If we empathize with their needs and explore alternatives → it was a request\n\nTYPES OF REQUESTS:\n1. Connection Requests: 'Would you tell me how you feel hearing this?'\n2. Action Requests: 'Would you be willing to take out the trash before dinner?'\n3. Reflection Requests: 'Would you tell me what you heard me say?'\n\nVAGUE vs CLEAR:\n- Vague: 'I want you to respect me.' → Clear: 'Would you be willing to knock before entering my room?'\n- Vague: 'Be more considerate.' → Clear: 'Would you be willing to text me when you're running late?'\n- Vague: 'Listen to me.' → Clear: 'Would you be willing to put down your phone while we talk?'\n\nPOSITIVE LANGUAGE:\n- Instead of: 'Stop yelling at me' → Try: 'Would you be willing to speak more softly?'\n- Instead of: 'Don't interrupt' → Try: 'Would you let me finish before responding?'\n\nRemember: A request becomes a demand the moment we think the other person 'should' or 'must' comply.",
+    "content_type": "concept",
+    "category": "requests",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://concepts/empathy",
+    "title": "Empathy in NVC",
+    "content": "Empathy is the foundation of NVC - both giving empathy to others and receiving it ourselves (self-empathy).\n\nWHAT EMPATHY IS:\n- Fully present attention to another's experience\n- Understanding feelings and needs without judgment\n- Connecting with the humanness in the other person\n- Being with someone, not doing something to fix them\n\nWHAT EMPATHY IS NOT:\n- Sympathizing ('I feel sorry for you')\n- Fixing ('Here's what you should do...')\n- Story-telling ('That happened to me too...')\n- Consoling ('It's not that bad...')\n- Advising ('If I were you...')\n- Explaining ('The reason that happened is...')\n- One-upping ('You think that's bad...')\n- Dismissing ('Cheer up, it'll be fine')\n\nEMPATHIC LISTENING involves:\n- Being fully present (setting aside your own thoughts)\n- Guessing feelings: 'Are you feeling frustrated?'\n- Guessing needs: 'Because you need some acknowledgment?'\n- Checking in: 'Is that what's going on for you?'\n- Allowing silence for reflection\n\nSELF-EMPATHY:\nBefore we can give empathy to others, we often need to give it to ourselves. This involves:\n1. Noticing what triggered us (observation)\n2. Connecting with our feelings\n3. Identifying our unmet needs\n4. Giving ourselves compassion for having these needs\n\nEmptiness is required for empathy - we cannot truly hear another while our mind is full of judgments, advice, or our own story.",
+    "content_type": "concept",
+    "category": "empathy",
+    "difficulty": "intermediate"
+  },
+  {
+    "url": "nvc://concepts/jackal-giraffe",
+    "title": "Jackal and Giraffe Language",
+    "content": "In NVC workshops, two animals are used as metaphors for different types of communication:\n\nGIRAFFE LANGUAGE (NVC) - chosen because giraffes have the largest heart of any land animal:\n- Speaks from the heart\n- Expresses feelings and needs clearly\n- Makes observations without judgment\n- Makes requests, not demands\n- Takes responsibility for own feelings\n- Seeks to understand others' needs\n- Aims for connection before solutions\n\nJACKAL LANGUAGE - represents habitual ways of communicating that disconnect us:\n- Criticizing and blaming\n- Judging and labeling ('You're lazy')\n- Comparing\n- Denying responsibility ('I had to...')\n- Making demands\n- Deserving thinking ('I deserve...' / 'You don't deserve...')\n- Punishment and reward thinking\n\nTRANSLATING JACKAL TO GIRAFFE:\n\nJackal: 'You never help around the house!'\nGiraffe: 'When I see dishes in the sink for two days (observation), I feel overwhelmed (feeling) because I need support and partnership (needs). Would you be willing to wash the dishes after dinner tonight? (request)'\n\nJackal: 'That's a stupid idea.'\nGiraffe: 'I'm feeling worried about this approach because I need more confidence it will work. Could you help me understand your reasoning?'\n\nThe goal is not to eliminate the 'jackal' but to hear the feelings and needs behind jackal expressions - in ourselves and others.",
+    "content_type": "concept",
+    "category": "practice",
+    "difficulty": "intermediate"
+  },
+  {
+    "url": "nvc://concepts/self-empathy",
+    "title": "Self-Empathy Practice",
+    "content": "Self-empathy is giving ourselves the same compassionate attention we would give to someone we care about. It's often the first step before we can connect authentically with others.\n\nWHEN TO USE SELF-EMPATHY:\n- When feeling triggered or reactive\n- Before a difficult conversation\n- When stuck in judgment (of self or others)\n- When experiencing strong emotions\n- When needs feel urgent or desperate\n\nSELF-EMPATHY PROCESS:\n\n1. PAUSE: Stop and breathe. Create space between stimulus and response.\n\n2. NOTICE THE BODY: Where do you feel tension? What sensations are present?\n\n3. IDENTIFY FEELINGS: What am I feeling right now? (sad, angry, scared, frustrated, hurt, anxious...)\n\n4. GUESS NEEDS: What needs of mine are unmet? (connection, respect, understanding, autonomy, safety, meaning...)\n\n5. COMPASSION: 'Of course I'm feeling this way - these needs really matter to me.'\n\n6. MOURNING: Allow yourself to feel the pain of the unmet need without trying to fix it immediately.\n\n7. STRATEGIES: Only after completing the above, consider what requests you might make of yourself or others.\n\nEXAMPLE:\n'I notice I'm clenching my jaw... I'm feeling anxious and hurt... I need respect and to be heard... Of course this matters to me - everyone needs to feel respected... I can sit with this feeling... Now, what might I do?'\n\nSelf-empathy is not self-pity or wallowing. It's a clear-eyed recognition of what's alive in us, held with compassion.",
+    "content_type": "concept",
+    "category": "self-empathy",
+    "difficulty": "intermediate"
+  },
+  {
+    "url": "nvc://concepts/enemy-images",
+    "title": "Transforming Enemy Images",
+    "content": "An 'enemy image' is any thought that implies someone is wrong, bad, or deserving of punishment. These images block our ability to connect compassionately.\n\nCOMMON ENEMY IMAGES:\n- 'He's so selfish'\n- 'She doesn't care about anyone but herself'\n- 'They're just trying to manipulate me'\n- 'He's a narcissist'\n- 'She's impossible to deal with'\n\nWHY ENEMY IMAGES FORM:\nEnemy images are tragic expressions of unmet needs. When we carry an enemy image:\n- We're suffering from unmet needs\n- We've lost connection with the other person's humanity\n- We've forgotten that their behavior is also an attempt to meet needs\n\nTRANSFORMING ENEMY IMAGES:\n\n1. Notice the enemy image: 'I'm thinking he's selfish.'\n\n2. Self-empathy first: What am I feeling? What needs of mine are unmet?\n   'I'm feeling hurt and lonely. I need consideration and connection.'\n\n3. Empathy for the other: What might they be feeling? What needs might they be trying to meet?\n   'Maybe he's feeling overwhelmed and needs space?'\n\n4. Humanize: Remember they're a human being trying to meet needs, just like you.\n\n5. Reconnect: With clarity about needs on both sides, connection becomes possible.\n\nTHE SHIFT:\nFrom: 'He's selfish and doesn't care about me.'\nTo: 'When he made plans without checking with me, I felt hurt because I need consideration. I wonder if he's feeling stressed and needing some autonomy?'\n\nEnemy images keep us stuck. Transforming them opens the door to understanding and resolution.",
+    "content_type": "concept",
+    "category": "advanced",
+    "difficulty": "advanced"
+  },
+  {
+    "url": "nvc://concepts/saying-no",
+    "title": "Saying and Hearing No in NVC",
+    "content": "In NVC, 'no' is never a rejection - it's information about what the person IS saying yes to.\n\nSAYING NO WITH NVC:\n\nWhen someone makes a request you can't or don't want to fulfill:\n\n1. Empathize first: Acknowledge their need. 'I hear that you're needing support right now.'\n\n2. Express your feelings and needs: 'I'm feeling stretched thin and need some rest.'\n\n3. Offer what you can: 'I'm not able to help today. Would it work if I helped tomorrow?'\n\nExample:\nRequest: 'Can you drive me to the airport at 5am tomorrow?'\nNVC No: 'I hear you need a ride, and I want to support you. I'm feeling exhausted and really need sleep tonight. I'm not able to do 5am. Would it help if I found you a reliable car service?'\n\nHEARING NO WITH NVC:\n\nWhen someone says no to your request:\n\n1. Remember: Their no is not a rejection of you.\n\n2. Empathize: What need are they meeting by saying no?\n   'Are you saying no because you're needing rest?'\n\n3. Explore: 'Is there some other way I could meet my need that would work for you?'\n\n4. Self-empathy: Connect with your feelings about the no.\n   'I notice I'm disappointed because I was hoping for connection.'\n\nKEY INSIGHT:\nBehind every 'no' is a 'yes' to something else. When we can hear what someone is saying yes to, we stay connected and can often find strategies that work for everyone.\n\n'No' is a gift - it tells us important information about the other person's needs.",
+    "content_type": "concept",
+    "category": "intermediate",
+    "difficulty": "intermediate"
+  },
+  {
+    "url": "nvc://concepts/conflict-resolution",
+    "title": "NVC Approach to Conflict Resolution",
+    "content": "In NVC, we believe all conflicts are ultimately a clash of strategies for meeting needs, not a clash of needs themselves. Needs are universal and never in conflict.\n\nNVC CONFLICT RESOLUTION STEPS:\n\n1. EMERGENCY EMPATHY (if emotions are high)\n   - Give empathy to whoever is most distressed\n   - 'Are you feeling really frustrated right now?'\n   - Continue until they feel heard\n\n2. SELF-EMPATHY\n   - Connect with your own feelings and needs\n   - Get clear before expressing\n\n3. HONEST EXPRESSION\n   - Share observations, feelings, needs, and requests\n   - Take responsibility for your feelings\n\n4. EMPATHIC LISTENING\n   - Hear the other person's feelings and needs\n   - Reflect back until they feel understood\n\n5. NEEDS INVENTORY\n   - List all needs on both sides\n   - Notice: needs are not in conflict!\n\n6. STRATEGY BRAINSTORM\n   - Generate strategies that could meet all needs\n   - Be creative - there are always more options\n\n7. MAKE AGREEMENTS\n   - Choose strategies everyone can say yes to\n   - Be specific about who will do what by when\n\nEXAMPLE:\nConflict: One partner wants to move for a job; the other wants to stay.\n\nNeeds discovered:\n- Partner A: growth, financial security, adventure\n- Partner B: stability, community, family connection\n\nNone of these needs conflict! The conflict is between strategies (move vs. stay). Once needs are clear, creative solutions emerge (long-distance trial period, finding local opportunities, regular visits, etc.).\n\nKEY: Keep bringing attention back to needs. Strategies are negotiable; needs are not.",
+    "content_type": "concept",
+    "category": "conflict",
+    "difficulty": "advanced"
+  },
+  {
+    "url": "nvc://exercises/daily-practice",
+    "title": "Daily NVC Practice Exercises",
+    "content": "Building NVC skills requires regular practice. Here are exercises to integrate NVC into daily life:\n\nMORNING PRACTICE (5 minutes):\n1. Set an intention to notice judgments today\n2. Identify one need you want to nurture today\n3. Consider: Who might I practice empathy with?\n\nOBSERVATION PRACTICE:\n- Throughout the day, practice separating observations from evaluations\n- When you catch yourself thinking 'He's so...' or 'She always...,' translate to observation\n- Ask: 'What would a video camera have recorded?'\n\nFEELINGS CHECK-IN (3x daily):\n- Pause and ask: 'What am I feeling right now?'\n- Use specific feeling words (not 'fine' or 'okay')\n- Notice where emotions live in your body\n\nNEEDS AWARENESS:\n- When you notice any feeling, ask: 'What need is this connected to?'\n- Pleasant feeling → met need\n- Unpleasant feeling → unmet need\n\nEMPATHY PRACTICE:\n- Choose one conversation to practice empathic listening\n- Silently guess the other person's feelings and needs\n- If appropriate, check: 'Are you feeling... because you need...?'\n\nEVENING REVIEW (5 minutes):\n1. What judgments did I notice today?\n2. What needs were alive in me?\n3. Where did I connect or disconnect?\n4. What am I grateful for?\n\nWEEKLY PRACTICE:\n- Translate one 'jackal' thought into giraffe\n- Practice self-empathy around one challenging situation\n- Make one clear request",
+    "content_type": "exercise",
+    "category": "practice",
+    "difficulty": "beginner"
+  }
+]
