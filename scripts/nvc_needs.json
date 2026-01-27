@@ -1,0 +1,66 @@
+[
+  {
+    "url": "nvc://needs/connection",
+    "title": "Universal Human Needs - Connection",
+    "content": "CONNECTION NEEDS are fundamental to human wellbeing. We are social beings who thrive through meaningful relationships with others.\n\nNeeds in this category include:\n\n- Acceptance: being received as we are\n- Affection: warmth and caring from others\n- Appreciation: recognition of our value and contributions\n- Belonging: being part of a group or community\n- Closeness: emotional intimacy with others\n- Communication: exchange of information and feelings\n- Community: shared experience with a group\n- Companionship: having others present in our lives\n- Compassion: understanding and care during difficulty\n- Consideration: having our situation taken into account\n- Empathy: being understood at a deep level\n- Inclusion: being invited and welcomed\n- Intimacy: deep knowing and being known\n- Love: profound caring and affection\n- Mutuality: shared giving and receiving\n- Nurturing: care and support for growth\n- Respect: being treated with dignity\n- Safety (emotional): freedom from emotional harm\n- Security: stability in relationships\n- Support: help and encouragement\n- To know and be known: authentic connection\n- To see and be seen: genuine recognition\n- To understand and be understood: mutual comprehension\n- Trust: confidence in reliability and care\n- Warmth: friendly, caring attention\n\nWhen connection needs are met, we might feel: loved, appreciated, included, understood, secure, warm, grateful, touched.\n\nWhen connection needs are unmet, we might feel: lonely, isolated, alienated, hurt, rejected, invisible, misunderstood.",
+    "content_type": "need",
+    "category": "connection",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/physical-wellbeing",
+    "title": "Universal Human Needs - Physical Wellbeing",
+    "content": "PHYSICAL WELLBEING NEEDS are the biological requirements that keep our bodies alive and healthy.\n\nNeeds in this category include:\n\n- Air: clean air to breathe\n- Food: nourishment for the body\n- Water: hydration\n- Shelter: protection from elements\n- Rest: sleep and recovery time\n- Movement/Exercise: physical activity\n- Physical safety: protection from physical harm\n- Sexual expression: intimate physical connection\n- Touch: physical contact and affection\n- Health: physical wellbeing and vitality\n\nWhen physical wellbeing needs are met, we might feel: rested, energized, comfortable, relaxed, strong, vital, satisfied.\n\nWhen physical wellbeing needs are unmet, we might feel: tired, hungry, thirsty, uncomfortable, tense, weak, restless, agitated.\n\nNote: While these needs are biological, how we meet them involves choice and can be connected to other needs (like autonomy around food choices, or connection through touch).",
+    "content_type": "need",
+    "category": "physical_wellbeing",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/honesty",
+    "title": "Universal Human Needs - Honesty",
+    "content": "HONESTY NEEDS relate to living with integrity and authenticity, both with ourselves and others.\n\nNeeds in this category include:\n\n- Authenticity: being genuine and real\n- Integrity: alignment between values and actions\n- Presence: being fully here and engaged\n- Self-worth: valuing ourselves\n- Self-respect: treating ourselves with dignity\n- Self-acceptance: embracing who we are\n- Self-connection: awareness of our inner experience\n- Transparency: openness about what's true\n- Truthfulness: honesty in communication\n\nWhen honesty needs are met, we might feel: authentic, integrated, confident, proud, peaceful, clear, open.\n\nWhen honesty needs are unmet, we might feel: conflicted, ashamed, disconnected, confused, guarded, false, anxious.\n\nHonesty in NVC is not about brutal truth-telling that disregards others' feelings. It's about expressing what's true for us (our observations, feelings, needs, requests) in ways that serve connection.",
+    "content_type": "need",
+    "category": "honesty",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/play",
+    "title": "Universal Human Needs - Play",
+    "content": "PLAY NEEDS relate to enjoyment, recreation, and the lighter aspects of life.\n\nNeeds in this category include:\n\n- Fun: enjoyment and amusement\n- Humor: laughter and lightness\n- Joy: delight and happiness\n- Play: recreation without purpose\n- Rejuvenation: renewal through leisure\n- Relaxation: release from stress\n- Adventure: excitement and new experiences\n- Celebration: marking special occasions\n- Entertainment: engaging diversions\n- Pleasure: enjoyable sensations\n- Creativity (playful): imaginative expression for fun\n\nWhen play needs are met, we might feel: joyful, amused, delighted, refreshed, lighthearted, energized, playful, free.\n\nWhen play needs are unmet, we might feel: bored, heavy, drained, serious, stuck, depleted, lifeless.\n\nPlay is not frivolous - it's a genuine human need. Adults often neglect play needs, but they remain important throughout life for wellbeing and balance.",
+    "content_type": "need",
+    "category": "play",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/peace",
+    "title": "Universal Human Needs - Peace",
+    "content": "PEACE NEEDS relate to harmony, beauty, and a sense of ease in life.\n\nNeeds in this category include:\n\n- Beauty: aesthetic nourishment\n- Communion: spiritual connection\n- Ease: freedom from difficulty\n- Equality: fairness and equal treatment\n- Harmony: balance and agreement\n- Inspiration: being moved and uplifted\n- Order: structure and organization\n- Peace: freedom from conflict\n- Simplicity: freedom from complexity\n- Space: room to breathe (physical and emotional)\n- Stillness: quiet and calm\n- Tranquility: deep peacefulness\n\nWhen peace needs are met, we might feel: calm, serene, tranquil, relaxed, content, centered, harmonious, at ease.\n\nWhen peace needs are unmet, we might feel: agitated, chaotic, overwhelmed, stressed, conflicted, disturbed, tense.\n\nPeace needs remind us that we need not just the absence of conflict, but the positive presence of harmony and beauty in our lives.",
+    "content_type": "need",
+    "category": "peace",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/autonomy",
+    "title": "Universal Human Needs - Autonomy",
+    "content": "AUTONOMY NEEDS relate to having choice and control over our own lives.\n\nNeeds in this category include:\n\n- Choice: ability to select from options\n- Freedom: liberty to act\n- Independence: self-reliance\n- Self-determination: directing our own lives\n- Space: room for ourselves\n- Spontaneity: freedom to be impulsive\n- Agency: power to take action\n- Empowerment: feeling capable and effective\n- Privacy: freedom from intrusion\n- Solitude: time alone\n\nWhen autonomy needs are met, we might feel: free, empowered, independent, liberated, confident, self-reliant, capable.\n\nWhen autonomy needs are unmet, we might feel: trapped, controlled, powerless, dependent, resentful, frustrated, suffocated.\n\nIn NVC, we recognize that everyone has autonomy needs. This is why we make requests rather than demands - demands deny the other person's autonomy and typically create resistance.",
+    "content_type": "need",
+    "category": "autonomy",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/meaning",
+    "title": "Universal Human Needs - Meaning",
+    "content": "MEANING NEEDS relate to purpose, growth, and making a difference in the world.\n\nNeeds in this category include:\n\n- Awareness: consciousness and understanding\n- Celebration: honoring life and accomplishments\n- Challenge: growth through difficulty\n- Clarity: understanding and clear thinking\n- Competence: ability and skill\n- Consciousness: awareness of self and world\n- Contribution: giving to others and the world\n- Creativity: bringing new things into being\n- Discovery: finding new things\n- Effectiveness: producing intended results\n- Efficacy: capability to achieve goals\n- Growth: development and expansion\n- Hope: optimism about the future\n- Learning: acquiring knowledge and skills\n- Mourning: honoring what has been lost\n- Participation: being part of something larger\n- Purpose: sense of direction and meaning\n- Self-expression: communicating who we are\n- Stimulation: mental engagement\n- To matter: significance and importance\n- Understanding: comprehension and insight\n\nWhen meaning needs are met, we might feel: purposeful, engaged, inspired, hopeful, fulfilled, motivated, alive, growing.\n\nWhen meaning needs are unmet, we might feel: empty, lost, purposeless, stagnant, hopeless, disconnected, bored.",
+    "content_type": "need",
+    "category": "meaning",
+    "difficulty": "beginner"
+  },
+  {
+    "url": "nvc://needs/overview",
+    "title": "Understanding Universal Human Needs",
+    "content": "In NVC, NEEDS are understood as the universal life energy that motivates all human action. Understanding needs is central to NVC practice.\n\nKEY PRINCIPLES ABOUT NEEDS:\n\n1. NEEDS ARE UNIVERSAL\nEvery human being shares the same basic needs. While strategies for meeting needs vary by culture and individual, the needs themselves are universal. This universality is what makes connection across differences possible.\n\n2. NEEDS ARE NEVER IN CONFLICT\nWhen people are in conflict, it's their strategies that conflict, not their needs. Two people might have the same need (e.g., respect) but different strategies for meeting it. Shifting focus from strategies to needs opens creative possibilities.\n\n3. FEELINGS SIGNAL NEEDS\n- Pleasant feelings (joy, peace, excitement) signal that needs ARE being met\n- Unpleasant feelings (sadness, anger, fear) signal that needs are NOT being met\nFeelings are messengers pointing us toward what we need.\n\n4. NEEDS VS STRATEGIES\n- Needs are the underlying motivations (connection, autonomy, safety)\n- Strategies are specific ways to meet needs (calling a friend, taking a walk, locking the door)\nProblems arise when we confuse strategies with needs or insist on one specific strategy.\n\n5. ALL ACTIONS ARE ATTEMPTS TO MEET NEEDS\nEven actions we judge as 'wrong' are attempts to meet needs. This doesn't make all actions equally effective or beautiful, but it helps us maintain empathy and connection.\n\n6. NEEDS CAN BE MET IN MANY WAYS\nFor any need, there are countless strategies. Freedom comes from recognizing this - we're never dependent on one person or situation to meet our needs.\n\nCategories of needs: Connection, Physical Wellbeing, Honesty, Play, Peace, Autonomy, Meaning.",
+    "content_type": "need",
+    "category": "overview",
+    "difficulty": "beginner"
+  }
+]

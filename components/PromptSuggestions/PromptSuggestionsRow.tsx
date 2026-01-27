@@ -3,110 +3,83 @@ import { useState, useEffect } from "react";
 import PromptSuggestionButton from "./PromptSuggestionButton";
 
 const PromptSuggestionRow = ({ onPromptClick }) => {
-  // Comprehensive pool organized by progression: Foundation → Practice → Deepening
+  // NVC prompts organized by learning progression: Basics → Practice → Advanced
   const allPrompts = [
-    // === FOUNDATION: Understanding Core Concepts ===
+    // === BASICS: Understanding NVC ===
 
-    // Michael Singer - Core Teachings
-    'What did Michael Singer mean by "pain is the price of freedom"?',
-    'Explain the cage metaphor - what are the edges of my comfort zone?',
-    'What does it mean to "get out of your own way"?',
-    'How do I go beyond my psychological limits?',
+    // Four Components
+    'What are the four components of Nonviolent Communication?',
+    'How do I make observations without evaluations?',
+    'What is the difference between feelings and thoughts?',
+    'What are universal human needs in NVC?',
+    'How do I make requests instead of demands?',
 
-    // Ramana Maharshi - Self-Inquiry Basics
-    'What is self-inquiry and how do I practice it?',
-    'What did Ramana Maharshi teach about the I-thought?',
-    'How do I find the source of the ego?',
-    'What is the difference between the ego and the Self?',
+    // Feelings Vocabulary
+    'What feelings might I have when my needs are met?',
+    'What feelings signal that my needs are not being met?',
+    'Help me expand my feelings vocabulary',
+    'What is the difference between "I feel ignored" and a true feeling?',
 
-    // Jiddu Krishnamurti - Attention & Awareness
-    'What is the difference between attention and inattention?',
-    'Why did Krishnamurti say "love is attention"?',
-    'How does seeking solutions prevent understanding problems?',
-    'What does it mean to live without naming or judging?',
+    // Needs Vocabulary
+    'What are the main categories of universal human needs?',
+    'Help me identify my underlying needs',
+    'Why are needs never in conflict according to NVC?',
+    'What needs might be behind anger?',
 
-    // Taoist Wisdom - The Way
-    'What is the Tao and how do I recognize it?',
-    'How do I walk the path of balance and center?',
-    'What does it mean to feel for the edges instead of the center?',
+    // === PRACTICE: Applying NVC ===
 
-    // === PRACTICE: Applying the Teachings ===
+    // Translation Practice
+    'Help me translate "You never listen to me!" into NVC',
+    'How would I express criticism using the OFNR format?',
+    'Transform "That\'s a stupid idea" into giraffe language',
+    'Help me practice translating a demand into a request',
 
-    // Letting Go & Surrender
-    'How do I practice letting go when facing fear?',
-    'What is true surrender versus giving up?',
-    'How can I stop trying to control outcomes?',
-    'How do I let events flow through me without resistance?',
+    // Empathy Practice
+    'How do I give empathy to someone who is upset?',
+    'What is the difference between empathy and sympathy?',
+    'Practice empathic listening with me',
+    'How do I empathize without fixing or advising?',
 
-    // Working with Pain & Discomfort
-    'How do I become comfortable with pain passing through me?',
-    'What happens when I stop pulling back from discomfort?',
-    'How do I face the barrier areas of my thoughts and emotions?',
-    'Why is going beyond always at the edge of my comfort zone?',
+    // Self-Empathy
+    'Guide me through self-empathy when I feel triggered',
+    'How do I practice self-empathy before a difficult conversation?',
+    'I\'m feeling frustrated - help me connect with my needs',
+    'What is self-compassion in NVC?',
 
-    // Ego Dissolution
-    'How does the ego dissolve in its source?',
-    'What did Ramana mean by the ego being like a burnt rope?',
-    'How do I keep my aim on the source while thoughts arise?',
-    'What is the relationship between the ego and prarabdha?',
+    // Conflict Resolution
+    'How can NVC help resolve a conflict I\'m having?',
+    'Guide me through the NVC conflict resolution process',
+    'How do I stay connected when someone says no to my request?',
+    'Help me prepare for a difficult conversation using NVC',
 
-    // Living Consciously
-    'How do I remain aware of the Self while engaging in activities?',
-    'What does it mean to do work without being the doer?',
-    'How can I be in the world but not of it?',
+    // === ADVANCED: Deepening Practice ===
 
-    // === DEEPENING: Advanced Understanding ===
+    // Jackal to Giraffe
+    'What are jackal and giraffe language in NVC?',
+    'How do I translate my inner jackal thoughts?',
+    'Help me hear the needs behind someone\'s criticism',
+    'How do I respond to blame with empathy?',
 
-    // Cross-Teacher Synthesis
-    'How do Ramana and Krishnamurti explain the same truth differently?',
-    'What do all teachers say about attachment and desire?',
-    'How is self-inquiry related to attention and presence?',
-    'What is the connection between surrender and self-inquiry?',
+    // Enemy Images
+    'How do I transform enemy images about someone?',
+    'I\'m holding a judgment - help me find the needs underneath',
+    'How do I see the humanity in someone I\'m angry with?',
 
-    // Michael Singer - Advanced Concepts
-    'How do I reach the other side of inner turmoil?',
-    'What happens when I stop building false solidity?',
-    'How does the inner force sustain and guide me?',
-    'What is the relationship between letting go and spiritual growth?',
+    // Saying and Hearing No
+    'How do I say no in NVC without disconnecting?',
+    'Help me hear the yes behind someone\'s no',
+    'How do I maintain connection when declining a request?',
 
-    // Ramana Maharshi - Deep Practice
-    'What is the difference between sushupti and samadhi?',
-    'How does a jnani experience the world differently?',
-    'What did Ramana mean by "Be Still and know that I am God"?',
-    'How is meditation just my natural state?',
+    // Daily Practice
+    'What are some daily NVC practice exercises?',
+    'How do I integrate NVC into my daily life?',
+    'Give me a self-empathy practice I can do each morning',
 
-    // Krishnamurti - Liberation
-    'How do I break free from psychological dependency?',
-    'What is communion and why is fear preventing it?',
-    'How do I live without authority and comparison?',
-    'Why is the house on fire within, not outside?',
-
-    // Taoist - Living the Way
-    'How do I avoid the extremes and stay centered?',
-    'What does it mean to be blind in the Tao?',
-    'How do I feel the edges without walking into them?',
-
-    // === SPECIFIC INSIGHTS & QUOTES ===
-
-    // Practical Wisdom
-    'Why should I "die myself and lose myself, becoming one with love"?',
-    'What does "nothing in life is to be feared, only understood" mean?',
-    'How can I live as if this were my last week?',
-    'What is the relationship between fear, desire, and complications?',
-
-    // Gary Weber & Stillness
-    'What does Gary Weber teach about the mind and thoughts?',
-    'How do I achieve the state beyond thinking?',
-
-    // Ram Dass & Presence
-    'What are Ram Dass\'s teachings on being here now?',
-    'How do I stay present with what is happening?',
-
-    // Existential Questions
-    'What is consciousness and how do I experience it directly?',
-    'How do different teachers describe enlightenment?',
-    'What is the nature of the Self that all teachers point to?',
-    'How is love related to awareness and attention?',
+    // Specific Situations
+    'How do I use NVC with my partner?',
+    'Can you help me with a workplace situation using NVC?',
+    'How do I use NVC with children?',
+    'Help me express gratitude using NVC principles',
   ];
 
   const [displayedPrompts, setDisplayedPrompts] = useState<string[]>([]);

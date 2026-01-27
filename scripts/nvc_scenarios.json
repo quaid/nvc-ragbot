@@ -1,0 +1,102 @@
+[
+  {
+    "url": "nvc://scenarios/basics/criticism-to-observation",
+    "title": "Practice: Transform Criticism to Observation",
+    "content": "PRACTICE SCENARIO: Transforming Criticism to Observation\n\nDifficulty: Beginner\nFocus: Observations component\nMode: Single response\n\nSTATEMENT TO TRANSFORM:\n\"You're always so messy!\"\n\nGUIDANCE:\nThis statement contains a generalization ('always') and a judgment ('messy'). To transform it into an observation, ask: What would a video camera record?\n\nPOSSIBLE NVC OBSERVATIONS:\n- \"When I see clothes on the bedroom floor...\"\n- \"I noticed dishes have been in the sink since yesterday...\"\n- \"The last three times I came home, I saw items scattered on the couch...\"\n\nKEY LEARNING:\nObservations are specific, time-bound, and neutral. They describe what happened without interpretation. 'Messy' is an evaluation; 'clothes on the floor' is an observation.\n\nPRACTICE TIP:\nWhen you catch yourself using words like 'always,' 'never,' 'so,' or labels like 'lazy,' 'selfish,' 'messy' - pause and ask: What specifically did I see or hear?",
+    "content_type": "scenario",
+    "category": "observations",
+    "difficulty": "beginner",
+    "mode": "single",
+    "focus_component": "observations"
+  },
+  {
+    "url": "nvc://scenarios/basics/identify-feelings",
+    "title": "Practice: Identify True Feelings",
+    "content": "PRACTICE SCENARIO: Distinguishing Feelings from Thoughts\n\nDifficulty: Beginner\nFocus: Feelings component\nMode: Single response\n\nSTATEMENT TO EXAMINE:\n\"I feel like you don't care about me.\"\n\nGUIDANCE:\nThis is not actually a feeling - it's a thought about what the other person is doing. The word 'like' or 'that' after 'I feel' usually signals a thought, not a feeling.\n\nQUESTION: What might the actual feelings be underneath this thought?\n\nPOSSIBLE TRUE FEELINGS:\n- Sad\n- Lonely\n- Hurt\n- Anxious\n- Discouraged\n- Disappointed\n\nTRANSFORMED EXPRESSION:\n\"I'm feeling sad and lonely...\" (followed by needs and request)\n\nKEY LEARNING:\n'I feel [adjective]' = usually a true feeling (sad, happy, scared)\n'I feel like/that [statement]' = usually a thought or interpretation\n\nOTHER EXAMPLES OF THOUGHTS DISGUISED AS FEELINGS:\n- \"I feel ignored\" → thought: you're ignoring me → feeling: lonely, sad\n- \"I feel manipulated\" → thought: you're manipulating me → feeling: angry, scared\n- \"I feel unimportant\" → thought: I don't matter to you → feeling: hurt, sad",
+    "content_type": "scenario",
+    "category": "feelings",
+    "difficulty": "beginner",
+    "mode": "single",
+    "focus_component": "feelings"
+  },
+  {
+    "url": "nvc://scenarios/basics/find-the-need",
+    "title": "Practice: Find the Need Behind the Feeling",
+    "content": "PRACTICE SCENARIO: Connecting Feelings to Needs\n\nDifficulty: Beginner\nFocus: Needs component\nMode: Single response\n\nSITUATION:\nYou feel frustrated when your partner makes weekend plans without checking with you first.\n\nGUIDANCE:\nFrustration signals unmet needs. What universal human needs might be unmet in this situation?\n\nPOSSIBLE UNMET NEEDS:\n- Consideration - wanting your preferences taken into account\n- Partnership/Mutuality - wanting shared decision-making\n- Inclusion - wanting to be part of the process\n- Respect - wanting your time valued\n- Autonomy - wanting choice about your own schedule\n- Connection - wanting to spend time together\n\nKEY LEARNING:\nThe same situation can involve multiple needs. Different people might identify different needs, and that's okay - needs are personal. The goal is to connect with YOUR needs, not to find the 'right' answer.\n\nPRACTICE TIP:\nWhen you notice an unpleasant feeling, ask: 'What do I need that I'm not getting?' The answer points toward your unmet needs.",
+    "content_type": "scenario",
+    "category": "needs",
+    "difficulty": "beginner",
+    "mode": "single",
+    "focus_component": "needs"
+  },
+  {
+    "url": "nvc://scenarios/basics/demand-to-request",
+    "title": "Practice: Transform Demand to Request",
+    "content": "PRACTICE SCENARIO: Making Requests Instead of Demands\n\nDifficulty: Beginner\nFocus: Requests component\nMode: Single response\n\nSTATEMENT TO TRANSFORM:\n\"You need to call me when you're going to be late!\"\n\nGUIDANCE:\nThis is a demand - it tells the other person what they 'need' to do. Demands create resistance because they don't honor the other person's autonomy.\n\nELEMENTS OF A GOOD REQUEST:\n1. Positive (what you want, not what you don't want)\n2. Specific and concrete\n3. Doable\n4. Present-focused\n5. Truly open to 'no'\n\nPOSSIBLE NVC REQUESTS:\n- \"Would you be willing to text me if you're running more than 15 minutes late?\"\n- \"Would you call me when you leave work so I know when to expect you?\"\n- \"I'd like to know your plans. Would you be willing to share your schedule with me on Sunday evenings?\"\n\nKEY LEARNING:\nThe difference between a request and a demand is how we respond when the answer is 'no.' If we punish, guilt-trip, or withdraw - it was a demand. If we empathize and explore alternatives - it was a request.\n\nPRACTICE TIP:\n\"Would you be willing to...\" is a helpful phrase that signals genuine inquiry rather than demand.",
+    "content_type": "scenario",
+    "category": "requests",
+    "difficulty": "beginner",
+    "mode": "single",
+    "focus_component": "requests"
+  },
+  {
+    "url": "nvc://scenarios/intermediate/full-translation",
+    "title": "Practice: Complete OFNR Translation",
+    "content": "PRACTICE SCENARIO: Full Jackal to Giraffe Translation\n\nDifficulty: Intermediate\nFocus: All four components (OFNR)\nMode: Single response\n\nJACKAL STATEMENT:\n\"You never listen to me! You're always on your phone. You obviously don't care about our relationship.\"\n\nGUIDANCE:\nThis statement contains evaluations, generalizations, and blame. Let's transform it using all four NVC components.\n\nSTEP-BY-STEP TRANSLATION:\n\n1. OBSERVATION (What would a camera record?):\n\"When we're having dinner and I see you looking at your phone...\"\n\n2. FEELING (What am I actually feeling?):\n\"I feel sad and lonely...\"\n\n3. NEED (What universal need is unmet?):\n\"...because I need connection and to feel that our time together matters.\"\n\n4. REQUEST (Specific, doable, open to no):\n\"Would you be willing to put your phone in another room during dinner?\"\n\nFULL NVC EXPRESSION:\n\"When we're having dinner and I see you looking at your phone, I feel sad and lonely because I need connection and to feel that our time together matters. Would you be willing to put your phone in another room during dinner?\"\n\nKEY LEARNING:\nThe goal isn't to be perfect or mechanical. The goal is to express what's true for you in a way that invites connection rather than defensiveness.",
+    "content_type": "scenario",
+    "category": "full_translation",
+    "difficulty": "intermediate",
+    "mode": "single",
+    "focus_component": "all"
+  },
+  {
+    "url": "nvc://scenarios/intermediate/self-empathy-practice",
+    "title": "Practice: Self-Empathy Process",
+    "content": "PRACTICE SCENARIO: Self-Empathy When Triggered\n\nDifficulty: Intermediate\nFocus: Self-empathy\nMode: Multi-turn\n\nSITUATION:\nYour colleague takes credit for your idea in a meeting. You feel your face flush and your jaw tighten.\n\nSELF-EMPATHY PROCESS:\n\nSTEP 1: PAUSE\nNotice you're triggered. Take a breath. You don't have to react immediately.\n\nSTEP 2: BODY AWARENESS\nWhat sensations do you notice? (Tight jaw, flushed face, racing heart...)\n\nSTEP 3: FEELINGS\nWhat feelings are present?\nPossible feelings: Angry, hurt, frustrated, shocked, disappointed, betrayed\n\nSTEP 4: NEEDS\nWhat needs are not being met?\nPossible needs: Recognition, fairness, honesty, respect, integrity, to be seen\n\nSTEP 5: SELF-COMPASSION\n\"Of course I'm feeling this way. Recognition and fairness really matter to me. Anyone would feel this way when their contribution isn't acknowledged.\"\n\nSTEP 6: MOURNING\nAllow yourself to feel the pain of the unmet needs without rushing to fix it.\n\nSTEP 7: NEXT STEPS (only after completing above)\nNow with more clarity, what do I want to do?\n- Talk to my colleague?\n- Talk to my manager?\n- Let it go?\n- Something else?\n\nKEY LEARNING:\nSelf-empathy creates the inner space needed to respond thoughtfully rather than react impulsively.",
+    "content_type": "scenario",
+    "category": "self_empathy",
+    "difficulty": "intermediate",
+    "mode": "multi",
+    "focus_component": "self_empathy"
+  },
+  {
+    "url": "nvc://scenarios/intermediate/empathic-listening",
+    "title": "Practice: Empathic Listening",
+    "content": "PRACTICE SCENARIO: Giving Empathy to Someone Upset\n\nDifficulty: Intermediate\nFocus: Empathy\nMode: Multi-turn\n\nSITUATION:\nYour friend says: \"I can't believe my sister! She promised to help me move this weekend and now she's bailing to go to some party. She's so selfish!\"\n\nNON-EMPATHIC RESPONSES TO AVOID:\n- Advising: \"You should tell her how you feel.\"\n- One-upping: \"That's nothing, my brother...\"\n- Educating: \"Well, maybe she has her reasons.\"\n- Consoling: \"It'll be okay, don't worry.\"\n- Fixing: \"I can help you move instead.\"\n- Dismissing: \"It's not a big deal.\"\n\nEMPATHIC LISTENING APPROACH:\n\n1. Be fully present (set aside your own thoughts)\n\n2. Guess feelings:\n\"It sounds like you're really frustrated...\"\n\"Are you feeling disappointed?\"\n\"You seem hurt...\"\n\n3. Guess needs:\n\"...because you were counting on her support?\"\n\"...because reliability is really important to you?\"\n\"...because you need help and consideration?\"\n\n4. Check in:\n\"Is that what's going on for you?\"\n\nEXAMPLE EMPATHIC RESPONSES:\n- \"Sounds like you're really frustrated because you were counting on her help?\"\n- \"Are you feeling hurt because you need reliability from people close to you?\"\n- \"You seem disappointed - were you needing support and consideration?\"\n\nKEY LEARNING:\nEmpathy is about connection, not agreement. You don't have to agree that the sister is selfish to empathize with the hurt.",
+    "content_type": "scenario",
+    "category": "empathy",
+    "difficulty": "intermediate",
+    "mode": "multi",
+    "focus_component": "empathy"
+  },
+  {
+    "url": "nvc://scenarios/advanced/conflict-mediation",
+    "title": "Practice: Mediating a Conflict",
+    "content": "PRACTICE SCENARIO: Facilitating Conflict Resolution\n\nDifficulty: Advanced\nFocus: Conflict mediation\nMode: Multi-turn\n\nSITUATION:\nTwo roommates are in conflict. One wants quiet after 10pm; the other plays music late at night.\n\nMEDIATION PROCESS:\n\nSTEP 1: ESTABLISH SAFETY\nEnsure both parties feel heard. Start with whoever seems most distressed.\n\nSTEP 2: GIVE EMPATHY TO PERSON A\nA: \"I can't sleep with that music! It's so inconsiderate!\"\nMediator: \"Are you feeling frustrated and exhausted because you need rest and consideration?\"\nContinue until A feels heard.\n\nSTEP 3: GIVE EMPATHY TO PERSON B\nB: \"I should be able to relax in my own home after work!\"\nMediator: \"Sounds like you're feeling constrained and need some freedom and relaxation?\"\nContinue until B feels heard.\n\nSTEP 4: TRANSLATE TO NEEDS\n- Person A needs: Rest, consideration, peace, predictability\n- Person B needs: Freedom, relaxation, self-expression, autonomy\n\nNotice: These needs don't conflict!\n\nSTEP 5: BRAINSTORM STRATEGIES\nNow that both feel heard, invite creative solutions:\n- Headphones after 10pm?\n- Designated quiet nights?\n- Soundproofing?\n- Shared calendar for music nights?\n\nSTEP 6: MAKE AGREEMENTS\nChoose strategies both can say yes to. Be specific about who does what.\n\nKEY LEARNING:\nConflict resolution in NVC focuses on needs, not positions. When people feel heard, they become more willing to explore creative solutions.",
+    "content_type": "scenario",
+    "category": "conflict",
+    "difficulty": "advanced",
+    "mode": "multi",
+    "focus_component": "conflict_resolution"
+  },
+  {
+    "url": "nvc://scenarios/advanced/enemy-image",
+    "title": "Practice: Transforming Enemy Images",
+    "content": "PRACTICE SCENARIO: Working with Enemy Images\n\nDifficulty: Advanced\nFocus: Enemy image transformation\nMode: Multi-turn\n\nSITUATION:\nYou catch yourself thinking: \"My boss is a narcissistic control freak who just wants to make everyone miserable.\"\n\nTRANSFORMATION PROCESS:\n\nSTEP 1: NOTICE THE ENEMY IMAGE\nRecognize this is a judgment that blocks connection. It might feel true and justified, but it keeps you stuck.\n\nSTEP 2: SELF-EMPATHY FIRST\nWhat are YOU feeling and needing?\n- Feelings: Frustrated, angry, powerless, discouraged\n- Needs: Autonomy, respect, consideration, trust, competence\n\n\"I'm feeling really frustrated because I need autonomy and to have my competence trusted.\"\n\nSTEP 3: EMPATHY FOR THE OTHER (in your imagination)\nWhat might your boss be feeling and needing?\n- Could they be feeling anxious about outcomes?\n- Might they need certainty, competence, or order?\n- What pressures might they be under?\n\nSTEP 4: HUMANIZE\nRemember: Your boss is a human being trying to meet needs. Their strategy (controlling behavior) might be ineffective and painful, but the underlying needs are universal.\n\nSTEP 5: NEW PERSPECTIVE\nInstead of: \"narcissistic control freak\"\nTry: \"Someone who seems anxious and is trying to meet needs for certainty and success in ways that aren't working for me.\"\n\nSTEP 6: CONSIDER ACTION\nWith this new perspective, what might you do?\n- Have a conversation about your need for autonomy?\n- Empathize with their pressures before making requests?\n- Set boundaries while maintaining connection?\n\nKEY LEARNING:\nEnemy images hurt us more than the other person. Releasing them doesn't mean accepting behavior - it means freeing ourselves to respond effectively.",
+    "content_type": "scenario",
+    "category": "advanced",
+    "difficulty": "advanced",
+    "mode": "multi",
+    "focus_component": "enemy_images"
+  },
+  {
+    "url": "nvc://scenarios/basics/workplace-feedback",
+    "title": "Practice: Giving Feedback at Work",
+    "content": "PRACTICE SCENARIO: Professional Feedback Using NVC\n\nDifficulty: Beginner\nFocus: All components in professional context\nMode: Single response\n\nSITUATION:\nA team member's reports have had errors lately, and it's affecting the project.\n\nTYPICAL APPROACH (non-NVC):\n\"Your work has been sloppy lately. You need to be more careful.\"\n\nNVC APPROACH:\n\n1. OBSERVATION:\n\"In the last three reports, I noticed calculations that didn't match the source data.\"\n\n2. FEELING:\n\"I'm concerned...\"\n\n3. NEED:\n\"...because accuracy is important for client trust, and I want our team to succeed.\"\n\n4. REQUEST:\n\"Would you be willing to double-check calculations before submitting? Or is there something that would help you with accuracy?\"\n\nFULL NVC EXPRESSION:\n\"In the last three reports, I noticed calculations that didn't match the source data. I'm concerned because accuracy is important for client trust, and I want our team to succeed. Would you be willing to double-check calculations before submitting? Or is there something that would help you with accuracy?\"\n\nKEY LEARNING:\nNVC feedback focuses on specific behaviors (observations), not character judgments. The request invites collaboration rather than compliance.\n\nNOTE:\nThe second question (\"Or is there something that would help...\") shows genuine curiosity - maybe they're overwhelmed, undertrained, or dealing with personal issues.",
+    "content_type": "scenario",
+    "category": "workplace",
+    "difficulty": "beginner",
+    "mode": "single",
+    "focus_component": "all"
+  }
+]
