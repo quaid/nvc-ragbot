@@ -90,6 +90,19 @@ See `.claude/developer_guide.md` for complete ZeroDB API reference.
 - `/init-new-project` - Initialize new projects
 - `/reinit-project` - Update existing project configuration
 
+## Issue Tracking (MANDATORY)
+
+**Before ANY code changes:**
+1. Create GitHub issue first (or find existing)
+2. Use issue template with acceptance criteria
+3. Reference issue in branch name: `feature/123-description`
+4. Reference issue in all commits: `Refs #123`
+5. Link PR to issue: `Closes #123`
+
+See `.claude/rules/ISSUE_TRACKING_ENFORCEMENT.md` for full requirements.
+
+**Backlog:** https://github.com/quaid/nvc-ragbot/issues
+
 ## Git Workflow
 
 - All commits require human approval
