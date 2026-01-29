@@ -4,6 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS='--dns-result-order=ipv4first' next dev",
+    "dev:start": "./scripts/dev-server.sh start --background",
+    "dev:stop": "./scripts/dev-server.sh stop",
+    "dev:status": "./scripts/dev-server.sh status",
+    "dev:restart": "./scripts/dev-server.sh restart",
+    "dev:logs": "./scripts/dev-server.sh logs",
     "build": "next build",
     "build:with-seed": "next build && npm run seed",
     "start": "next start",

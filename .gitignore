@@ -203,3 +203,6 @@ logs/
 
 # Claude Code
 .claude/settings.local.json
+
+# Dev server control
+.dev-server.pid
