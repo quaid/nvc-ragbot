@@ -1,1 +1,1 @@
-../../../devcontext/.ainative/ISSUE_TRACKING_ENFORCEMENT.md
+../../../core/.ainative/ISSUE_TRACKING_ENFORCEMENT.md
