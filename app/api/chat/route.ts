@@ -1,5 +1,6 @@
 // Using node-fetch for Meta Llama API calls (avoiding OpenAI SDK undici timeout issues)
 import nodeFetch from 'node-fetch';
+import { detectPracticeMode } from '@/lib/practice-mode';
 
 // Note: Using node-fetch directly instead of OpenAI SDK to avoid undici timeout issues
 // Note: Using ZeroDB's embedding API instead of loading transformers locally (to avoid Netlify timeout)
@@ -18,6 +19,9 @@ export async function POST(req: Request) {
     const {messages, useRag, llm, similarityMetric} = await req.json();
 
     const latestMessage = messages[messages?.length - 1]?.content;
+
+    // Detect if user is requesting practice mode
+    const practiceMode = detectPracticeMode(latestMessage || '');
 
     let docContext = '';
     let sources: string[] = [];
@@ -101,6 +105,56 @@ export async function POST(req: Request) {
       `;
     }
 
+    // Build practice mode instructions if detected
+    let practiceModeInstructions = '';
+    if (practiceMode.isPracticeMode) {
+      const componentFocus = practiceMode.focusComponent
+        ? `Focus specifically on the "${practiceMode.focusComponent}" component of NVC.`
+        : 'Cover all OFNR components as needed.';
+
+      const difficultyLevel = practiceMode.difficulty
+        ? `Adjust complexity for ${practiceMode.difficulty} level learners.`
+        : 'Gauge the user\'s level and adapt accordingly.';
+
+      const conversationStyle = practiceMode.conversationMode === 'multi'
+        ? 'Guide the user step-by-step through the practice, asking questions and providing feedback at each stage.'
+        : 'Provide a complete practice scenario with guidance in a single response.';
+
+      if (practiceMode.mode === 'translate') {
+        practiceModeInstructions = `
+        PRACTICE MODE ACTIVE: Translation Exercise
+        The user wants to translate a statement into NVC. ${componentFocus} ${difficultyLevel}
+        ${conversationStyle}
+
+        TRANSLATION EXERCISE FORMAT:
+        1. Acknowledge the original statement
+        2. Identify the evaluations, judgments, or demands present
+        3. Guide the transformation using OFNR:
+           - Observation: What would a camera record?
+           - Feeling: What emotion is present?
+           - Need: What universal need is unmet?
+           - Request: What specific, doable action would help?
+        4. Provide the complete NVC translation
+        5. Explain the key learning from this exercise
+        `;
+      } else {
+        practiceModeInstructions = `
+        PRACTICE MODE ACTIVE: Interactive Practice
+        The user wants to practice NVC skills. ${componentFocus} ${difficultyLevel}
+        ${conversationStyle}
+
+        PRACTICE SESSION FORMAT:
+        1. Present a realistic scenario appropriate to the difficulty level
+        2. Ask the user to try applying NVC
+        3. Provide constructive feedback on their attempt
+        4. Offer model answers and alternatives
+        5. Highlight key learnings
+
+        Use scenarios from the knowledge base context when available.
+        `;
+      }
+    }
+
     const ragPrompt = [
       {
         role: 'system',
@@ -109,6 +163,7 @@ export async function POST(req: Request) {
         CRITICAL INSTRUCTION: Base your responses on the NVC knowledge provided in the context below. Your guidance should align with NVC principles.
 
         ${docContext}
+        ${practiceModeInstructions}
 
         YOUR CORE CAPABILITIES:
         1. Explain NVC concepts (Observations, Feelings, Needs, Requests)
