@@ -1,1 +1,1 @@
-../../../devcontext/.ainative/RULES.MD
+../../../core/.ainative/RULES.MD

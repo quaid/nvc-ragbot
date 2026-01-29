@@ -1,1 +1,1 @@
-../../../devcontext/.ainative/git-rules.md
+../../../core/.ainative/git-rules.md

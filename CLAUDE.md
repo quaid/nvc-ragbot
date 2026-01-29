@@ -1,7 +1,7 @@
 # NVC RAGbot
 
 > **Project Name:** nvc-ragbot
-> **Last Updated:** 2026-01-21
+> **Last Updated:** 2026-01-28
 > **Project Root:** /Volumes/Cody/projects/nvc-ragbot
 
 ## Overview
@@ -90,9 +90,25 @@ See `.claude/developer_guide.md` for complete ZeroDB API reference.
 - `/init-new-project` - Initialize new projects
 - `/reinit-project` - Update existing project configuration
 
+## Symlink Source Configuration
+
+**Source Repositories:**
+- `core/` (sibling directory at `../core/`)
+- `devcontext/` (sibling directory at `../devcontext/`)
+
+**Current Symlink Sources:**
+- **Commands:** `core/.claude/commands/` (via `../core/.claude/commands/`)
+- **Skills:** `core/.claude/skills/` (via `../core/.claude/skills/`)
+- **Rules:** `core/.ainative/` (via `../core/.ainative/`)
+
+**Future Direction:**
+- Use both `.ainative` and `.claude` depending on need
+- Prefer `.ainative` when content exists in both locations
+
 ## Issue Tracking (MANDATORY)
 
 **Before ANY code changes:**
+0. Use skill for issue creation
 1. Create GitHub issue first (or find existing)
 2. Use issue template with acceptance criteria
 3. Reference issue in branch name: `feature/123-description`
