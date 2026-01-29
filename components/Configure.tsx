@@ -3,6 +3,7 @@ import Dropdown from "./Dropdown";
 import Toggle from "./Toggle";
 import Footer from "./Footer";
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
+import { ProgressStats } from "../lib/progress-tracking";
 
 interface Props {
   isOpen: boolean;
@@ -11,12 +12,26 @@ interface Props {
   llm: string;
   similarityMetric: SimilarityMetric;
   setConfiguration: (useRag: boolean, llm: string, similarityMetric: SimilarityMetric) => void;
+  progressEnabled?: boolean;
+  progressStats?: ProgressStats;
+  onProgressToggle?: (enabled: boolean) => void;
 }
 
-const Configure = ({ isOpen, onClose, useRag, llm, similarityMetric, setConfiguration }: Props) => {
+const Configure = ({
+  isOpen,
+  onClose,
+  useRag,
+  llm,
+  similarityMetric,
+  setConfiguration,
+  progressEnabled = false,
+  progressStats,
+  onProgressToggle
+}: Props) => {
   const [rag, setRag] = useState(useRag);
   const [selectedLlm, setSelectedLlm] = useState(llm);
   const [selectedSimilarityMetric, setSelectedSimilarityMetric] = useState<SimilarityMetric>(similarityMetric);
+  const [trackProgress, setTrackProgress] = useState(progressEnabled);
   
   if (!isOpen) return null;
 
@@ -38,6 +53,9 @@ const Configure = ({ isOpen, onClose, useRag, llm, similarityMetric, setConfigur
         selectedLlm,
         selectedSimilarityMetric
     );
+    if (onProgressToggle && trackProgress !== progressEnabled) {
+      onProgressToggle(trackProgress);
+    }
     onClose();
   };
 
@@ -71,6 +89,45 @@ const Configure = ({ isOpen, onClose, useRag, llm, similarityMetric, setConfigur
             value={selectedSimilarityMetric}
             onSelect={setSelectedSimilarityMetric}
           />
+
+          {/* Progress Tracking Section */}
+          <div className="mt-6 pt-6 border-t border-gray-200 dark:border-gray-700">
+            <h2 className="chatbot-text-primary text-lg font-medium mb-4">Practice Progress</h2>
+            <Toggle
+              enabled={trackProgress}
+              label="Track my NVC practice progress"
+              onChange={() => setTrackProgress(!trackProgress)}
+            />
+            <p className="text-sm text-gray-500 mt-2 ml-1">
+              {trackProgress
+                ? "Your practice progress is stored locally on this device."
+                : "Enable to track scenarios completed, streaks, and statistics."}
+            </p>
+
+            {/* Progress Stats Display */}
+            {trackProgress && progressStats && progressStats.totalAttempts > 0 && (
+              <div className="mt-4 grid grid-cols-2 gap-3">
+                <div className="backdrop-blur-sm bg-[#00A3A1]/5 rounded-lg p-3 border border-[#00A3A1]/20">
+                  <div className="text-2xl font-bold text-[#00A3A1]">{progressStats.totalAttempts}</div>
+                  <div className="text-xs text-gray-600">Total Attempts</div>
+                </div>
+                <div className="backdrop-blur-sm bg-[#28A36A]/5 rounded-lg p-3 border border-[#28A36A]/20">
+                  <div className="text-2xl font-bold text-[#28A36A]">{progressStats.completionRate}%</div>
+                  <div className="text-xs text-gray-600">Completion Rate</div>
+                </div>
+                <div className="backdrop-blur-sm bg-[#F6A135]/5 rounded-lg p-3 border border-[#F6A135]/20">
+                  <div className="text-2xl font-bold text-[#F6A135]">{progressStats.streakDays}</div>
+                  <div className="text-xs text-gray-600">Day Streak</div>
+                </div>
+                <div className="backdrop-blur-sm bg-purple-500/5 rounded-lg p-3 border border-purple-500/20">
+                  <div className="text-2xl font-bold text-purple-600">
+                    {progressStats.averageRating > 0 ? progressStats.averageRating.toFixed(1) : '-'}
+                  </div>
+                  <div className="text-xs text-gray-600">Avg Rating</div>
+                </div>
+              </div>
+            )}
+          </div>
         </div>
         <div className="self-end w-full">
           <div className="flex justify-end gap-2">
