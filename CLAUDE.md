@@ -42,10 +42,33 @@ nvc-ragbot/
 ## Development Commands
 
 ```bash
-npm run dev          # Start development server
+npm run dev          # Start development server (foreground)
 npm run build        # Build for production
 npm run test         # Run tests
 npm run lint         # Run ESLint
+```
+
+### Dev Server Control
+
+Manage the development server with these commands:
+
+```bash
+npm run dev:start    # Start server in background
+npm run dev:stop     # Stop the server
+npm run dev:status   # Check if server is running
+npm run dev:restart  # Restart the server
+npm run dev:logs     # View server logs
+```
+
+Or use the script directly:
+
+```bash
+./scripts/dev-server.sh start           # Start in foreground
+./scripts/dev-server.sh start --background  # Start in background
+./scripts/dev-server.sh stop            # Stop server
+./scripts/dev-server.sh status          # Check status
+./scripts/dev-server.sh logs            # View logs
+./scripts/dev-server.sh test            # Run tests
 ```
 
 ## Technology Stack
