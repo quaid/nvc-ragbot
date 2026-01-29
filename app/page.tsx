@@ -10,11 +10,13 @@ import ThemeButton from '../components/ThemeButton';
 import Sidebar from '../components/Sidebar';
 import useConfiguration from './hooks/useConfiguration';
 import useConversations from './hooks/useConversations';
+import { useProgress } from './hooks/useProgress';
 
 
 export default function Home() {
   const { append, messages, input, handleInputChange, handleSubmit, setMessages, isLoading } = useChat();
   const { useRag, llm, similarityMetric, setConfiguration } = useConfiguration();
+  const { isEnabled: progressEnabled, stats: progressStats, enable: enableProgress, disable: disableProgress } = useProgress();
   const {
     currentConversationId,
     createNewConversation,
@@ -212,6 +214,9 @@ export default function Home() {
       llm={llm}
       similarityMetric={similarityMetric}
       setConfiguration={setConfiguration}
+      progressEnabled={progressEnabled}
+      progressStats={progressStats}
+      onProgressToggle={(enabled) => enabled ? enableProgress() : disableProgress()}
     />
     </>
   )
