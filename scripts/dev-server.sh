@@ -25,6 +25,9 @@ PID_FILE="$PROJECT_ROOT/.dev-server.pid"
 LOG_FILE="$PROJECT_ROOT/.dev-server.log"
 PORT="${PORT:-3000}"
 
+# Ensure PATH includes common Node.js locations
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PROJECT_ROOT/node_modules/.bin:$PATH"
+
 # Colors for output
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -87,8 +90,9 @@ cmd_start() {
     cd "$PROJECT_ROOT"
 
     if [ "$background" = true ]; then
-        # Start in background
-        nohup npm run dev > "$LOG_FILE" 2>&1 &
+        # Start in background with explicit PATH for node/npm/next
+        PATH="/opt/homebrew/bin:/usr/local/bin:$PROJECT_ROOT/node_modules/.bin:$PATH" \
+            nohup npm run dev > "$LOG_FILE" 2>&1 &
         local pid=$!
         echo "$pid" > "$PID_FILE"
         print_success "Server started in background (PID: $pid)"
